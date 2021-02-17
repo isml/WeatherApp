@@ -1,9 +1,9 @@
 # Hava Durumu Uygulaması
 
 <p float="left">
-<img src="https://github.com/isml/WeatherApp/blob/main/img/Screenshot_20210217-185140.jpg" height="400" width="200">
-<img src="https://github.com/isml/WeatherApp/blob/main/img/Screenshot_20210217-185146.jpg" height="400" width="200">
-<img src="https://github.com/isml/WeatherApp/blob/main/img/Screenshot_20210217-185156.jpg" height="400" width="200">
+<img src="https://github.com/isml/WeatherApp/blob/main/img/Screenshot_20210217-185140.jpg" height="450" width="250">
+<img src="https://github.com/isml/WeatherApp/blob/main/img/Screenshot_20210217-185146.jpg" height="450" width="250">
+<img src="https://github.com/isml/WeatherApp/blob/main/img/Screenshot_20210217-185156.jpg" height="450" width="250">
 
 </p>
 <b></b>
